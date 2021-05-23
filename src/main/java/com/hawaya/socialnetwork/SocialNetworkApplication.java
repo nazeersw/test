@@ -12,7 +12,7 @@ public class SocialNetworkApplication {
 		SpringApplication.run(SocialNetworkApplication.class, args);
 	}
 
-
+//eclips
 //mn1
 //mn2	
 //cr2
