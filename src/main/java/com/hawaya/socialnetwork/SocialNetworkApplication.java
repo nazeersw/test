@@ -13,11 +13,6 @@ public class SocialNetworkApplication {
 	}
 
 
-//c2
-<<<<<<< HEAD
-//c3
-=======
-//r3	
->>>>>>> cef18db32d69ea599724e568e2dfbee7de3ca77b
+//mr
 
 }
