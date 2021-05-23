@@ -13,6 +13,7 @@ public class SocialNetworkApplication {
 	}
 
 //eclips
+	//eclips2
 //mn1
 //mn2	
 //cr2
