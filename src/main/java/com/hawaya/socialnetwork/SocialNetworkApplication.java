@@ -14,5 +14,6 @@ public class SocialNetworkApplication {
 
 
 //mn1
+//mn2	
 
 }
