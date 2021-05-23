@@ -11,6 +11,7 @@ public class SocialNetworkApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SocialNetworkApplication.class, args);
 	}
+//eclips local 2	
 //eclips local
 //eclips remote	
 //eclips
