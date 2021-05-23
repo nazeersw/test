@@ -11,6 +11,11 @@ public class SocialNetworkApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SocialNetworkApplication.class, args);
 	}
+<<<<<<< Updated upstream
 //mmmmmmmmmmmmmmmmmmmmmmm
 
+=======
+
+//nnnnnnnnnnnnnnnnnn
+>>>>>>> Stashed changes
 }
