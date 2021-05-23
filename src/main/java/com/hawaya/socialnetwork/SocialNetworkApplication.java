@@ -14,8 +14,8 @@ public class SocialNetworkApplication {
 <<<<<<< Updated upstream
 //mmmmmmmmmmmmmmmmmmmmmmm
 
-=======
+
 
 //nnnnnnnnnnnnnnnnnn
->>>>>>> Stashed changes
+
 }
