@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SocialNetworkApplication {
 //test change local
+//test c1
 	public static void main(String[] args) {
 		SpringApplication.run(SocialNetworkApplication.class, args);
 	}
