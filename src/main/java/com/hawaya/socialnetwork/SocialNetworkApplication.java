@@ -13,10 +13,6 @@ public class SocialNetworkApplication {
 	}
 
 
-//mr
-//mr1	
-//cr1
-//cr2
-//mr2	
+//mn1
 
 }
