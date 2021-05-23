@@ -12,4 +12,7 @@ public class SocialNetworkApplication {
 		SpringApplication.run(SocialNetworkApplication.class, args);
 	}
 
+
+//c2
+
 }
